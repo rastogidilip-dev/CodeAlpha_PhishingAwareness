@@ -6,8 +6,7 @@ Cyber Security Internship — Task 2 (CodeAlpha)
 Create an awareness module to help users recognize phishing emails and fake websites, understand social engineering tactics, and follow best practices.
 
 ## Contents
-- Phishing_Awareness.pptx — Presentation (15 slides)
-- Optional: Phishing_Checklist.pdf — 1-page takeaway checklist
+- Phishing_Awareness.pptx — Presentation (16 slides)
 
 ## How to Use
 1. Open the presentation and go through slides sequentially.
